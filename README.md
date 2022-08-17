@@ -2,7 +2,7 @@
 
 I'm Veronica, Fullstack developer from Spain.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=npm+VeForcex+run+start)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=npm+VeForcex+run+start)
 
 ## Languages and Tools
 
