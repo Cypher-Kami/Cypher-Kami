@@ -14,11 +14,11 @@ I'm Veronica, Fullstack developer from Spain.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeForcex&show_icons=true&theme=dark)
 
-# More about me
+# Contact me
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-bitar/) ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) <bitarveronica@gmail.com>
 
-- 📫 How to reach me: <bitarveronica@gmail.com>
+
 
 <!--
 **VeForcex/VeForcex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
