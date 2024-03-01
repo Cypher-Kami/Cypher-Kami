@@ -1,5 +1,7 @@
 # Hi there 👋
 
+
+
 I'm Alex, a passionate Fullstack Developer from Spain. I thrive on challenging myself with new technologies and building projects that captivate users.
 
 - 👯 I’m looking to collaborate on open source projects.
@@ -9,7 +11,7 @@ I'm Alex, a passionate Fullstack Developer from Spain. I thrive on challenging m
 - ⚡ Fun fact: I love to play the guitar in my free time.
 
 <!-- Typing SVG for dynamic text -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=npm+VeForcex+run+start)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=13&pause=1500&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=435&lines=Haku+Arch's+Development+Environment+is+now+ready.;%3E+Explore+more+at+github.com%2FHakuArch)](https://git.io/typing-svg)
 
 ## 🚀 Languages and Tools
 
