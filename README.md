@@ -27,7 +27,7 @@ I'm Alex, a passionate Fullstack Developer from Spain. I thrive on challenging m
 ## 📊 GitHub Stats
 
 <!-- GitHub stats graph -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeForcex&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haku-Arch&show_icons=true&theme=dark)
 
 <!-- Top languages card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeForcex&layout=compact)
