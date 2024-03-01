@@ -36,7 +36,7 @@ I'm Alex, a passionate Fullstack Developer from Spain. I thrive on challenging m
 
 <!-- Contact icons and links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-bitar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bitarveronica@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xelbitar@gmail.com)
 
 ## 💡 Projects
 
