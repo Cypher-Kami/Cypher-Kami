@@ -30,12 +30,12 @@ I'm Alex, a passionate Fullstack Developer from Spain. I thrive on challenging m
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haku-Arch&show_icons=true&theme=dark)
 
 <!-- Top languages card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeForcex&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haku-Arch&layout=compact)
 
 ## 📫 How to Reach Me
 
 <!-- Contact icons and links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veronica-bitar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-bitar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xelbitar@gmail.com)
 
 ## 💡 Projects
