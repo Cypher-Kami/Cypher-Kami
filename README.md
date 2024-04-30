@@ -1,5 +1,5 @@
 <!-- Typing SVG for dynamic text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=F7F7F7&center=true&multiline=true&random=false&width=435&lines=Cypher+Ado's+Development+Environment+is+ready;%3E+Explore+more+at+github.com%2FHaku-Arch)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=F7F7F7&center=true&multiline=true&random=false&width=435&lines=Cypher+Ado's+Development+Environment+is+ready;%3E+Explore+more+at+github.com%2FCypher-Ado)](https://git.io/typing-svg)
 
 # Hi there 👋
 I'm Alex, a passionate Fullstack Developer from Spain. I thrive on challenging myself with new technologies and building projects that captivate users.
