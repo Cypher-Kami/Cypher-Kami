@@ -27,10 +27,10 @@ I'm Alex, a passionate Fullstack Developer from Spain. I thrive on challenging m
 ## 📊 GitHub Stats
 
 <!-- GitHub stats graph -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haku-Arch&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cypher-Ado&show_icons=true&theme=dark)
 
 <!-- Top languages card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haku-Arch&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-Ado&layout=compact)
 
 ## 📫 How to Reach Me
 
