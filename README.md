@@ -1,5 +1,5 @@
 <!-- Typing SVG for dynamic text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=F7F7F7&center=true&multiline=true&random=false&width=435&lines=Cypher+Ado's+Development+Environment+is+ready;%3E+Explore+more+at+github.com%2FCypher-Ado)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=F7F7F7&center=true&multiline=true&random=false&width=435&lines=Cypher+Kami's+Development+Environment+is+ready;%3E+Explore+more+at+github.com%2FCypher-Kami)](https://git.io/typing-svg)
 
 # Hi there 👋
 I'm Alex, a passionate Fullstack Developer from Spain. I thrive on challenging myself with new technologies and building projects that captivate users.
@@ -27,10 +27,10 @@ I'm Alex, a passionate Fullstack Developer from Spain. I thrive on challenging m
 ## 📊 GitHub Stats
 
 <!-- GitHub stats graph -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cypher-Ado&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cypher-Kami&show_icons=true&theme=dark)
 
 <!-- Top languages card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-Ado&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cypher-Kami&layout=compact)
 
 ## 📫 How to Reach Me
 
